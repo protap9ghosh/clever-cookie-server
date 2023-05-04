@@ -4,53 +4,95 @@
         "picture": "https://rb.gy/rwm2o",
         "name": "John Smith",
         "years_of_experience": 10,
+        "experience_description": "John Smith is a highly skilled chef with over 10 years of experience in the culinary industry. He has worked in a variety of settings, including fine dining restaurants, hotels, and catering companies.Throughout his career, John has developed a reputation for his exceptional attention to detail and commitment to quality. He is known for his ability to create innovative and flavorful dishes that delight the senses and leave a lasting impression on his diners.John's culinary journey began when he enrolled in culinary school immediately after finishing high school. During his training, he gained hands-on experience in a variety of techniques and cuisines, and he quickly discovered his passion for food and cooking.",
         "num_recipes": 50,
-        "likes": 1000,
-        "view_recipes_button": "https://example.com/chef1/recipes"
+        "recipe_name": [
+            "Chingri Malai Curry",
+            "Shorshe Ilish",
+            "Beef Bhuna",
+            "Morog Polao",
+            "Bhorta"
+        ],
+        "likes": 1000
     },
     {
         "id": 2,
         "picture": "https://rb.gy/l47fy",
         "name": "Maria Rodriguez",
         "years_of_experience": 8,
+        "experience_description": "Maria Rodriguez is a talented chef with 8 years of experience in the culinary industry. She has worked in a variety of kitchens, including restaurants, hotels, and catering companies. Maria has a passion for creating delicious and visually stunning dishes that showcase the best ingredients available. She is known for her ability to combine classic techniques with modern twists, creating unique and memorable dishes that delight her diners. Maria's culinary journey began when she enrolled in culinary school after completing her undergraduate degree in business.",
         "num_recipes": 75,
-        "likes": 1500,
-        "view_recipes_button": "https://example.com/chef2/recipes"
+        "recipe_name": [
+            "Pitha",
+            "Fish Fry",
+            "Chapli Kabab",
+            "Kacchi Biryani",
+            "Mutton Rezala"
+        ],
+        "likes": 1500
     },
     {
         "id": 3,
         "picture": "https://rb.gy/e8xeq",
         "name": "David Lee",
         "years_of_experience": 15,
+        "experience_description": "David Lee is a talented chef with eight years of experience in the culinary industry. He has worked in a variety of kitchens, including high-end restaurants, hotels, and catering companies. David has a passion for using the freshest and most flavorful ingredients to create innovative and memorable dishes. He is known for his creativity, attention to detail, and commitment to using sustainable and locally sourced ingredients.",
         "num_recipes": 100,
-        "likes": 2000,
-        "view_recipes_button": "https://example.com/chef3/recipes"
+        "recipe_name": [
+            "Doi Begun",
+            "Lau Ghonto",
+            "Tehari",
+            "Chicken Roast",
+            "Shami Kabab"
+        ],
+        "likes": 2000
     },
     {
         "id": 4,
         "picture": "https://rb.gy/w66ge",
         "name": "Maggie Chen",
         "years_of_experience": 5,
+        "experience_description": "Maggie Chen is a talented chef with 5 years of experience in the culinary industry. She has worked in a variety of kitchens, including high-end restaurants, hotels, and catering companies. Maggie is known for her ability to combine classic techniques with modern flavors and ingredients, creating unique and memorable dishes that delight her diners. She is also skilled in creating vegan and vegetarian dishes, catering to the increasing demand for plant-based options. Maggie's culinary journey began when she enrolled in culinary school after completing her undergraduate degree in biology.",
         "num_recipes": 30,
-        "likes": 500,
-        "view_recipes_button": "https://example.com/chef4/recipes"
+        "recipe_name": [
+            "Fuchka",
+            "Chotpoti",
+            "Beguni",
+            "Jhal Muri",
+            "Alur Dom"
+        ],
+        "likes": 500
     },
     {
         "id": 5,
         "picture": "https://rb.gy/r0a0l",
         "name": "James Johnson",
         "years_of_experience": 12,
+        "experience_description": "James Johnson is a highly experienced and accomplished chef with 12 years of experience in the culinary industry. He has worked in a variety of kitchens, including high-end restaurants, hotels, and catering companies.James is known for his exceptional attention to detail and commitment to using the freshest and highest quality ingredients. He is also skilled in a wide range of techniques and cuisines, from classic French cuisine to modern fusion dishes. James' culinary journey began when he enrolled in culinary school after completing his undergraduate degree in hospitality management.",
         "num_recipes": 80,
-        "likes": 1800,
-        "view_recipes_button": "https://example.com/chef5/recipes"
+        "recipe_name": [
+            "Macher Jhol",
+            "Dimer Dalna",
+            "Kala Bhuna",
+            "Dhaka Paratha",
+            "Bhapa Pitha"
+        ],
+        "likes": 1800
     },
     {
         "id": 6,
         "picture": "https://rb.gy/lifxr",
         "name": "Sophie Brown",
         "years_of_experience": 3,
+        "experience_description": "Sophie Brown is a promising chef with 3 years of experience in the culinary industry. She has worked in a variety of kitchens, including high-end restaurants and catering companies. Sophie is known for her creativity and passion for using fresh, seasonal ingredients to create dishes that are both delicious and visually stunning. She is skilled in a variety of techniques and cuisines, and she is constantly exploring new flavors and ingredients to incorporate into her cooking. Sophie's culinary journey began when she enrolled in culinary school after completing her undergraduate degree in art history. She was drawn to the artistic and creative aspects of cooking, and she quickly discovered her talent for combining flavors and textures to create unique and memorable dishes.",
         "num_recipes": 20,
-        "likes": 250,
-        "view_recipes_button": "https://example.com/chef6/recipes"
+        "recipe_name": [
+            "Biriyani",
+            "Haleem",
+            "Korma",
+            "Kofta",
+            "Luchi"
+        ],
+        "likes": 250
     }
 ]
