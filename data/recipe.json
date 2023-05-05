@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "recipe_name": "Spicy Thai Basil Chicken",
         "banner": "https://example.com/images/thai-basil-chicken.jpg",
         "ingredients": [
@@ -13,6 +14,7 @@
         "rating": 4.9
     },
     {
+        "id": 2,
         "recipe_name": "Blueberry Pancakes",
         "banner": "https://example.com/images/blueberry-pancakes.jpg",
         "ingredients": [
@@ -26,6 +28,7 @@
         "rating": 4.7
     },
     {
+        "id": 3,
         "recipe_name": "Creamy Mushroom Risotto",
         "banner": "https://example.com/images/mushroom-risotto.jpg",
         "ingredients": [
@@ -38,7 +41,5 @@
         "method": "Saute sliced mushrooms in a large pot until browned. Add arborio rice and stir to coat with oil. Add chicken broth one cup at a time, stirring until absorbed before adding more. Cook until rice is tender. Stir in parmesan cheese and butter until melted and creamy.",
         "rating": 4.5
     }
-
-
 
 ]
