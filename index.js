@@ -18,8 +18,8 @@ app.get("/chef-details", (req, res) => {
 
 app.get("/chef-details/:id", (req, res) => {
     const id = parseInt(req.params.id);
-    const selectedChef = chefDetails.find((chefDetails) => chefDetails.id === id);
-    res.send(selectedChef);
+    const chef = chefDetails?.find((chefInfo) => chefInfo.id === id);
+    res.send(chef);    
 });
 
 app.get("/recipe", (req, res) => {
@@ -28,8 +28,8 @@ app.get("/recipe", (req, res) => {
 
 app.get("/recipe/:id", (req, res) => {
     const id = parseInt(req.params.id);
-    const selectedRecipe = recipe.find(recipe => recipe.id === id);
-    res.send(selectedRecipe);
+    const selectedRecipe = recipe?.find(recipeInfo => recipeInfo.id === id);
+    res.send(selectedRecipe);    
 });
 
 app.listen(port, () => {
